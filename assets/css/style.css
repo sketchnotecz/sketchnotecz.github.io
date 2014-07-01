@@ -107,7 +107,7 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #00b3fe;
+	color: #000;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -116,7 +116,7 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: #384452;
+	background-color: #e23636;
 	border-color: transparent;
 }
 
